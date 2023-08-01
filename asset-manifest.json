@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Woodmart/static/css/main.2a3dfec4.css",
+    "main.js": "/Woodmart/static/js/main.b1f02e5e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Woodmart/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bed.jpg": "/Woodmart/static/media/bed.8489f807863ddc81b1e9.jpg",
+    "static/media/number.jpg": "/Woodmart/static/media/number.db2d9dd858ccb5a8f0ec.jpg",
+    "static/media/carrom.jpg": "/Woodmart/static/media/carrom.ded1b0191397558f7c2d.jpg",
+    "static/media/pic.jpg": "/Woodmart/static/media/pic.6099a6a57b6d20f25924.jpg",
+    "static/media/dining.jpg": "/Woodmart/static/media/dining.021f0205fd9049e54242.jpg",
+    "static/media/bamboo.jpg": "/Woodmart/static/media/bamboo.56fa3a568e76a5ad59ba.jpg",
+    "static/media/door.jpg": "/Woodmart/static/media/door.8c06941b67ff32c9e904.jpg",
+    "static/media/logo.svg": "/Woodmart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Woodmart/index.html",
+    "main.2a3dfec4.css.map": "/Woodmart/static/css/main.2a3dfec4.css.map",
+    "main.b1f02e5e.js.map": "/Woodmart/static/js/main.b1f02e5e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Woodmart/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a3dfec4.css",
+    "static/js/main.b1f02e5e.js"
+  ]
+}

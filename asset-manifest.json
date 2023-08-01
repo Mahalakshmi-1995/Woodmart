@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Woodmart/static/css/main.2a3dfec4.css",
-    "main.js": "/Woodmart/static/js/main.3abbb711.js",
+    "main.js": "/Woodmart/static/js/main.c57f0762.js",
     "static/js/787.28cb0dcd.chunk.js": "/Woodmart/static/js/787.28cb0dcd.chunk.js",
     "static/media/bed.jpg": "/Woodmart/static/media/bed.8489f807863ddc81b1e9.jpg",
     "static/media/number.jpg": "/Woodmart/static/media/number.db2d9dd858ccb5a8f0ec.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo.svg": "/Woodmart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Woodmart/index.html",
     "main.2a3dfec4.css.map": "/Woodmart/static/css/main.2a3dfec4.css.map",
-    "main.3abbb711.js.map": "/Woodmart/static/js/main.3abbb711.js.map",
+    "main.c57f0762.js.map": "/Woodmart/static/js/main.c57f0762.js.map",
     "787.28cb0dcd.chunk.js.map": "/Woodmart/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a3dfec4.css",
-    "static/js/main.3abbb711.js"
+    "static/js/main.c57f0762.js"
   ]
 }
